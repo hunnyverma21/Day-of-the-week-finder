@@ -1,0 +1,9 @@
+PROBLEM STATEMENT - DAY OF THE WEEK FINDER
+
+Create a Python program that accepts a date from the user in DD-MM-YYYY format and determines the corresponding day of the week.
+
+The program should validate the entered date, handle invalid dates gracefully, and display the date along with its correct day of the week.
+
+OBJECTIVE
+
+Practice Python's datetime module, user input, date formatting, string manipulation, and exception handling.
